@@ -2,7 +2,7 @@
 
 A job-search tracker built around one question: *which résumé did I send to which job, and how well did it fit?*
 
-**[Live demo](https://YOUR-USERNAME.github.io/application-ledger/)** (sample data only, saved in your browser)
+**[Live demo](https://karenweston.github.io/application-ledger/)** (sample data only, saved in your browser)
 
 ![Application Ledger showing eight sample applications](docs/screenshot.png)
 
